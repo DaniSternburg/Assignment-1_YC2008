@@ -70,6 +70,8 @@ body{
     top: 39px;
 }
 
+
+
 h1{
     display: flex;
     justify-content: space-between;
@@ -164,6 +166,9 @@ h1 ul a{
     position: absolute;
     right:20px;
     top: 16px;
+    border: 0;
+    background-color: none ;
+    op
 }
 
 .dessert .order{
